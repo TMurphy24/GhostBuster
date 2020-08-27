@@ -1,8 +1,3 @@
-//For the DOM requirement, DOM is included in p5.js when a switch is clicked 
-//on the sidebar so DOM is in place for this implamentation using that import 
-//You can change the color of the background and the color of the ghost
-//You can change the speed and pattern at which the ghost moves around
-//You can change the size of the ghost and make it disappear and stop moving
 
 let slider;
 let button;
